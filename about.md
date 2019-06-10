@@ -10,6 +10,9 @@ Hi! I am a first year PhD student in [Biostatistics department at University of 
 ### Research interest
 Bayesian Statistics, Cancer Genetics, Machine Learnings, Causal Inference
 
+### CV
+[CV](https://raw.githubusercontent.com/calebae/calebae.github.io/master/images/CV_Caleb Bae_06042019.pdf)
+
 ### Contact me
 
 [ecbae91@gmail.com](mailto:ecbae91@gmail.com)
