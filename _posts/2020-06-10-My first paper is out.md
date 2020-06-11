@@ -1,4 +1,4 @@
 ---
 published: true
 ---
-First blog
+My first paper is out!
